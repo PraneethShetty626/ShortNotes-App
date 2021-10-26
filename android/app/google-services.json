@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205465193252",
+    "project_id": "noteitshort",
+    "storage_bucket": "noteitshort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205465193252:android:cd7027fd9d449a04b301b1",
+        "android_client_info": {
+          "package_name": "com.example.noteitshort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205465193252-h0ea80qngog4e4jpgvvae2l604rjc152.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wbsU8GD4PNPidw5YU26vD0BFHHHP5Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205465193252-h0ea80qngog4e4jpgvvae2l604rjc152.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
